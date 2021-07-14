@@ -1,0 +1,7 @@
+{
+  "name": "movefree",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
